@@ -1,9 +1,5 @@
 # The Nexus Whitepaper
 
-Created: December 28, 2021 10:21 AM
-Last Edited Time: February 22, 2022 7:45 AM
-Status: In Progress 🙌
-
 # **Introduction**
 
 We couldn’t meet each other in person.
